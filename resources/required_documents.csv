@@ -1,0 +1,9 @@
+first_column,Beatriz Velasco,Mexico- España,Duque Estrada,Santa Catarina,Inguarán,Cuajimalpa,Cuautepec,Nicolás M. Cedillo,Tláhuac
+ID + copy,1,1,1,2,2,1,1,1,1
+Proof of Residency + copy,1,1,1,2,2,1,1,1,1
+Companion ID + Copy,1,0,1,0,2,0,1,0,0
+CURP,0,0,0,0,0,1,1,1,1
+Birth Certificate + Copy,0,0,0,0,0,0,1,1,0
+Proof of fee remission,0,0,0,0,1,1,1,1,1
+Blood type test,0,1,0,1,0,0,0,0,0
+Urine test,0,0,0,0,1,0,0,0,0

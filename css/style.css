@@ -1,10 +1,6 @@
 @import url(bootstrap.min.css);
 @import url(../fonts/fonts.css);
 
-html,body{
-  overflow-x: hidden;
-}
-
 
 /* fonts */
 body{
@@ -21,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* CSS for hero image, either background photo or background video */
 .hero{
-  background-image: url("../assets/sample-images/desk-1.jpg");
+  background-image: url("../assets/Photos/Yuri-24.JPG");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;

@@ -1,0 +1,18 @@
+Simple_name,Name,Description,Clinic,Type,Logo,lat,lng,Photo URL,Prayers
+CAM,Centro de Ayuda para la Mujer,Clinic ,Fake,Clinic,Deside,19.43392755,-99.1735919,,
+CAM,Centro de Ayuda para la Mujer,Clinic ,Fake,Clinic,,19.29454646,-99.18276539,,
+Cuajimalpa,Centro de Salud T-III Cuajimalpa,,Real,,,19.35665133,-99.29744753,,Yes
+Beatriz Velasco,Clínica del Centro de Salud T-III Beatriz Velasco de Alemán,,Real,,,19.4451783,-99.11249877,,Yes
+Beatriz Velasco,Clínica del Centro de Salud T-III Beatriz Velasco de Alemán,Bus parked next to the clinic,Fake,Bus,CAM,19.44538064,-99.11204547,,
+Mexico-Espana,Clínica Integral de Salud Reproductiva del Centro de Salud T-III México España,,Real,,,19.44603462,-99.18174155,,
+Mexico-Espana,Clínica Integral de Salud Reproductiva del Centro de Salud T-III México España,Two vans parked at the entrance,Fake,Van,Deside,19.44598151,-99.18163158,,
+Santa Catarina,Clínica Comunitaria Santa Catarina,,Real,,,19.34238752,-99.00257352,,
+Santa Catarina,Clínica Comunitaria Santa Catarina,Clinic on the same street 2a. Calputitla,Fake,Clinic,Deside,19.34198765,-99.00286052,,
+Juan Duque,Clínica de Salud Sexual y Reproductiva del Centro de Salud T-III Dr. Juan Duque de Estrada,,Real,,,19.42839479,-99.0970284,,
+Juan Duque,Clínica de Salud Sexual y Reproductiva del Centro de Salud T-III Dr. Juan Duque de Estrada,Camp truck parked one street next to the clinic,Fake,Trailer,CAM,19.42816207,-99.09706059,,
+Cuautepec,Hospital Materno Infantil Cuautepec,,Real,,,19.539769,-99.140869,,
+Nicolas M. Cedillo,Hospital Materno Infantil Dr. Nicolás M. Cedillo,,Real,,,19.49814,-99.203464,,
+Inguaran,Hospital Materno Infantil Inguarán,,Real,,,19.45223329,-99.11313024,,
+Inguaran,Hospital Materno Infantil Inguarán,White van with no logo,Fake,Van,Deside,19.45246976,-99.11321473,,
+Tlahuac,Hospital Materno Infantil Tláhuac,,Real,,,19.26526115,-98.99800092,,
+Tlahuac,Hospital Materno Infantil Tláhuac,Van parked on the parking lot ,Fake ,Van,Deside,19.26471729,-98.99886341,,

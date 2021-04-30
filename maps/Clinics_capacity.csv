@@ -1,0 +1,14 @@
+Simple_Name,Name,Service,Capacity,People attended daily,Opening,Observations
+Cuajimalpa,Centro de Salud T-III Cuajimalpa,Yes,Unlimited,20,9:00 AM,Only people with and ID from Cuajimalpa are attended. 
+Santa Catarina,Clínica Comunitaria Santa Catarina,Yes,10,10,7:30 AM,Recommended arriving at 6:00 AM to secure a spot
+Mexico-Espana,Clínica Integral de Salud Reproductiva del Centro de Salud T-III México España,Yes,Unlimited,20,7:00 AM,Recommended arriving at 6:00 AM to secure a spot
+Juan Duque,Clínica de Salud Sexual y Reproductiva del Centro de Salud T-III Dr. Juan Duque de Estrada,Yes,10,10,7:30 AM,Recommended arriving at 6:00 AM to secure a spot
+Ajusco,Hospital General Ajusco Medio Dra. Obdulia Rodríguez Rodríguez,No,,,,
+Enrique Cabrera,Hospital General Dr. Enrique Cabrera,No,,,,
+Ticoman,Hospital General Ticomán,No,,,,
+Cuautepec,Hospital Materno Infantil Cuautepec,Yes,4,4,6:45 AM,Recommended arriving before 5:30 AM to secure a spot
+Nicolas M. Cedillo,Hospital Materno Infantil Dr. Nicolás M. Cedillo,Yes,Unlimited,20,8:00 AM,Previous in-person appointment needed
+Inguaran,Hospital Materno Infantil Inguarán,Yes,Unlimited,20,7:30 AM,Recommended arriving at 6:00 AM to secure a spot
+Tlahuac,Hospital Materno Infantil Tláhuac,Yes,10,10,7:00 AM,Recommended arriving at 6:00 AM to secure a spot
+Xochimilco,Hospital Materno Pediátrico Xochimilco,No,,,,
+Beatriz Velasco,Clínica del Centro de Salud T-III Beatriz Velasco de Alemán,Yes,13,13,7:00 AM,Recommended arriving at 6:00 AM to secure a spot
